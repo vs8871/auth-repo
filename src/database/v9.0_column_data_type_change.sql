@@ -1,5 +1,5 @@
 ALTER TABLE order_info ALTER COLUMN quantity TYPE boolean,
-                       ALTER COLUMN customer_id TYPE integer;
+                        ALTER COLUMN customer_id TYPE integer;
 
 
 
