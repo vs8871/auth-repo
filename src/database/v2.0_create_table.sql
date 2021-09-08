@@ -1,5 +1,5 @@
 CREATE 
-TABLE     
+ TABLE     
    order_info
 ( order_id      integer CONSTRAINT order_details_pk PRIMARY KEY,
   Product_id    integer NOT NULL,
