@@ -1,8 +1,6 @@
 DROP 
     TABLE  
- order_information, 
+ accounts, 
 
- product_information;
+ product_info;
 
-
-DROP    TABLE shipment_information;
