@@ -15,4 +15,3 @@ CREATE TABLE accounts (
 	created_on TIMESTAMP NOT NULL,
         last_login TIMESTAMP 
 );
-
