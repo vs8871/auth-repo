@@ -1,5 +1,5 @@
-ALTER TABLE order_info ALTER COLUMN quantity TYPE boolean,
-                        ALTER COLUMN delivery_date TYPE varchar ( 30 ) ;
+ALTER TABLE order_info ALTER COLUMN quantity TYPE varchar ( 40 ) ,
+                        ALTER COLUMN feedback TYPE integer ;
 
 
 
