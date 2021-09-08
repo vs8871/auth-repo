@@ -5,4 +5,4 @@ DROP
  product_information;
 
 
-DROP     TABLE shipment_information;
+DROP    TABLE shipment_information;
