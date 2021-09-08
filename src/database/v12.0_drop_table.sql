@@ -1,6 +1,6 @@
 DROP 
     TABLE 
-order_information, 
+ order_information, 
 
 product_information;
 
