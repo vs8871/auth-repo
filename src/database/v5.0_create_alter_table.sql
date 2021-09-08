@@ -11,4 +11,4 @@ CREATE
 );
 
 
- ALTER TABLE product_info ADD COLUMN address varchar (30);
+ ALTER TABLE product_info ADD COLUMN address varchar (30); 
