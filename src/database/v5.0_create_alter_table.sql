@@ -1,5 +1,6 @@
-CREATE TABLE shipment_info
-( order_id integer CONSTRAINT order_details_pk PRIMARY KEY,
+CREATE
+  TABLE shipment_info 
+ ( order_id integer CONSTRAINT order_details_pk PRIMARY KEY,
   ship_id integer NOT NULL,
   shipping_date date,
   no_of_item integer,
@@ -10,4 +11,4 @@ CREATE TABLE shipment_info
 );
 
 
-ALTER TABLE product_info ADD COLUMN address varchar(30);
+ALTER TABLE product_info ADD COLUMN address varchar (30);
