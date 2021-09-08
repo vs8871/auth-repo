@@ -1,5 +1,5 @@
 DROP 
-    TABLE
+    TABLE 
 order_information, 
 
 product_information;
