@@ -5,7 +5,7 @@ CREATE TABLE accounts (
 	email VARCHAR ( 255 ) UNIQUE NOT NULL,
 	created_on TIMESTAMP NOT NULL,
         last_login TIMESTAMP 
-);
+); 
 
 
 ALTER TABLE order_info ADD COLUMN address varchar(30);
